@@ -2,3 +2,8 @@
 	path = E3KCO/e3k-proprietary-modules
 	url = git@github.com:E3KCO/e3k-proprietary-modules.git
 	branch = 15.0
+
+[submodule "E3KCO/addons"]
+	path = E3KCO/addons
+	url = git@github.com:E3KCO/addons.git
+	branch = 15.0
